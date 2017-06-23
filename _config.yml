@@ -57,10 +57,7 @@ show_last_updated: true
 share: true
 
 # 是否开启打赏，关闭 reward: false
-reward:
-  title: 谢谢大爷~
-  wechat: false     #微信，关闭设为 false
-  alipay: false     #支付宝，关闭设为 false
+reward: false
 
 # 是否开启搜索
 search: true
